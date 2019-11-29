@@ -3,5 +3,4 @@ export class prod {
     getProducts() {
        console.log("This is existing  method");
     }
-
 }
