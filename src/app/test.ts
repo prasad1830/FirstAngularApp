@@ -8,4 +8,8 @@ export class prod {
   NewFecthMethod(){
     console.log('New Fetch Method');
   }
+
+  NewTesting(){
+    console.log('New Testing one');
+  }
 }
