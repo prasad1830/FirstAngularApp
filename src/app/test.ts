@@ -4,4 +4,8 @@ export class prod {
   FetchProducts() {
       console.log('hello World');
   }
+
+  NewFecthMethod(){
+    console.log('New Fetch Method');
+  }
 }
